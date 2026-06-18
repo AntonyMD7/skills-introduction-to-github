@@ -2,6 +2,8 @@
 
 Use this repository as a guided practice space to go from complete beginner to confident GitHub user.
 
+If you want an issue-based practice session alongside this syllabus, open [issue #2](https://github.com/AntonyMD7/skills-introduction-to-github/issues/2).
+
 ## How to use this syllabus
 
 1. Work through the phases in order.
