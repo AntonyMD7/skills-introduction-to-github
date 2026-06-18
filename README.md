@@ -9,8 +9,6 @@ Use this repository as a guided practice space to go from complete beginner to c
 3. Do the hands-on tasks directly in this repository whenever possible.
 4. Repeat exercises until the workflow feels natural.
 
----
-
 ## Phase 1: Beginner
 
 Goal: Learn the basic GitHub workflow and become comfortable making simple changes safely.
@@ -258,3 +256,10 @@ You are becoming an advanced GitHub user when you can:
 - [ ] Resolve basic merge conflicts without panic.
 - [ ] Read GitHub Actions runs and understand what failed.
 - [ ] Use GitHub as both a coding tool and a collaboration platform.
+
+---
+
+## Repository notes
+
+- [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
+- [MIT License](./LICENSE)
