@@ -44,7 +44,7 @@ Goal: Learn the basic GitHub workflow and become comfortable making simple chang
 
 #### Merging
 - [ ] Understand what happens when a pull request is merged.
-- [ ] Practice: merge your pull request after checks and review are complete.
+- [ ] Practice: merge your pull request after review is complete and, if checks are configured, after they pass.
 - [ ] Practice: delete the branch after merging.
 
 ### Beginner mini-project
@@ -110,7 +110,7 @@ Goal: Become productive with automation, collaboration at scale, and advanced re
 - [ ] Understand workflows, jobs, steps, triggers, and runners.
 - [ ] Practice: inspect the files in `.github/workflows`.
 - [ ] Practice: identify what event triggers each workflow in this repository.
-- [ ] Practice: explain the difference between a successful run, a failed run, and a run waiting for action.
+- [ ] Practice: explain the difference between a successful run, a failed run, and a queued or in-progress run.
 
 #### CI/CD basics
 - [ ] Understand how continuous integration checks code automatically.
